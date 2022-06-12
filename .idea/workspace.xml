@@ -11,20 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aeb650f-e2e1-46f8-b166-4cec3dd2824b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/beans/Annonce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/beans/Annonce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/beans/Freelancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/beans/Freelancer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/controllers/AnnonceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/controllers/AnnonceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/models/AnnonceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/models/AnnonceRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/models/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/models/ClientRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/models/IAnnonceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/models/IAnnonceRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/services/AnnonceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/services/AnnonceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/services/MissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/services/MissionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/freelance/utils/AnnonceHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freelance/utils/AnnonceHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/components/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/components/header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/components/offer-card.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/components/offer-card.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/components/profile-card.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/components/profile-card.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/pages/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/pages/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/pages/profile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/pages/profile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freelancer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/freelancer.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +41,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -64,6 +53,7 @@
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
         <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
@@ -79,6 +69,14 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="28sErEE3r6m8Px4cDrOJVpHmUqw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -87,17 +85,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/views/pages" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\IdeaProjects\freelance-management-app\src\main\webapp\views\pages" />
@@ -239,6 +237,10 @@
       <workItem from="1654532232873" duration="519000" />
       <workItem from="1654614359968" duration="11573000" />
       <workItem from="1654707383744" duration="24119000" />
+      <workItem from="1654952990243" duration="1389000" />
+      <workItem from="1654958560681" duration="1962000" />
+      <workItem from="1654978190493" duration="2017000" />
+      <workItem from="1654985846649" duration="1124000" />
     </task>
     <servers />
   </component>
